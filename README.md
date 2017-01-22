@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Überschrift 2
 ### Überschrift 3
 
-- Bulleted
-- List
+- Unsortierte
+- Liste
 
 1. Numbered
 2. List
