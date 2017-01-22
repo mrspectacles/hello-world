@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Überschrift 1
 ## Überschrift 2
-### Header 3
+### Überschrift 3
 
 - Bulleted
 - List
