@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Unsortierte
 - Liste
 
-1. Numbered
-2. List
+1. Nummerierte
+2. Liste
 
 **Bold** and _Italic_ and `Code` text
 
