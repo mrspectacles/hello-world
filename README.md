@@ -32,6 +32,6 @@ Für mehr Details siehe [GitHub Flavored Markdown](https://guides.github.com/fea
 
 Deine einzelnen Webseiten werden das Layout und die Styles des in den [repository settings] angegebenen Jekyll Themes verwenden. (https://github.com/mrspectacles/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support oder Kontakt
 
 Probleme mit Seiten? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
